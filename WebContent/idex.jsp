@@ -8,5 +8,8 @@
 </head>
 <body>
 	<h1>This is Welcome page of my Project etc...</h1>
+	
+	<p>This is my paragraph Page</p>
+	
 </body>
 </html>
